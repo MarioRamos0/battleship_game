@@ -1,3 +1,9 @@
 [submodule "Battleship_api"]
 	path = Battleship_api
 	url = git@github.com:MarioRamos0/Battleship_api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MarioRamos0/Battleship_frontend.git
+[submodule "api"]
+	path = api
+	url = https://github.com/MarioRamos0/Battleship_api.git
