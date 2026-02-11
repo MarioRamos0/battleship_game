@@ -1,0 +1,3 @@
+[submodule "Battleship_api"]
+	path = Battleship_api
+	url = git@github.com:MarioRamos0/Battleship_api.git
